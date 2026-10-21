@@ -22,6 +22,7 @@ github_profile:
 department:
 orcid:
 cv:
+googleid: 
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
@@ -60,19 +61,19 @@ source-code: https://github.com/isu-digital/portfolio-template
 navbar-color: navbar-light
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-light
+navbar-background: bg-secondary
 
 # BOOTSWATCH THEMES [optional!]
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: 
+bootswatch: cosmo
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: ""
 link-color: "#0d6efd"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: Arimo # comment out for bootstrap defaults. e.g. Roboto
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet"> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # ICONS [optional!]
 # Generates icons for sidebar information from https://fontawesome.com/
