@@ -2,6 +2,29 @@
 title: Academic Portfolio Template
 ---
 
+# About Me
+
+This is a paragraph about me.
+
+## Bio
+
+I am a digital scholarship librarian
+
+
+## Classes
+
+## Hobbies
+
+
+
+
+
+
+
+
+
+
+
 Write pages in Markdown.
 
 ## Heading Two 
