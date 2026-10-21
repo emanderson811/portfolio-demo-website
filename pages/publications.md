@@ -4,4 +4,4 @@ nav: Publications
 nav_order: 1
 ---
 
-{% include card.html text="This is my most recent publication" header="Newly Published" img="/assets/img/cookbook-banner.jpg" %}
+{% include card.html text="This is my most recent publication" header="Newly Published" img="cookbook-banner.jpg" %}
